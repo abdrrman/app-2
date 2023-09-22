@@ -1,3 +1,4 @@
 
-import streamlit as st
-st.title('app-2-8')
+    import streamlit as st
+    st.info("Mini Stress Test - 1")
+    st.balloons()
